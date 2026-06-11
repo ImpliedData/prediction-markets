@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://implieddata.com"><b>ImpliedData</b></a> — historical prediction-market data, Databento-style
+  <a href="https://implieddata.com"><b>ImpliedData</b></a> — historical prediction-market data
 </p>
 
 # Prediction Markets Sample Dataset
