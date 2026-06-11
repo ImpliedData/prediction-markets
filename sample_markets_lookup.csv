@@ -1,0 +1,131 @@
+market_id,platform_market_id,platform,title,category,status,resolution,opened,closes
+7,0xcccb7e7613a087c132b69cbf3a02bece3fdcb824c1da54ae79acc8d4a562d902,polymarket,GTA VI released before June 2026?,,open,,2025-05-02,2026-05-31
+15,0xf8f63bb47b2a7c2e0c1be3cedf4075079b11c07476d76a9469065b0c4791961a,polymarket,Will the Colorado Avalanche win the 2026 NHL Stanley Cup?,,open,,2025-06-23,
+20,0xbefea6668e49e328db4d5c792bc15cea309bbc06101dfd6ced1e0556ad3ea301,polymarket,Will the Buffalo Sabres win the 2026 NHL Stanley Cup?,,open,,2025-06-23,
+21,0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54,polymarket,Will the Oklahoma City Thunder win the 2026 NBA Finals?,,open,,2025-06-23,
+22,0x6b44bd667fad6cb5b3b68d8bd1055a038c77d9176dbd51f123879797cc3368a7,polymarket,Will the Cleveland Cavaliers win the 2026 NBA Finals?,,open,,2025-06-23,
+23,0x713641f745d71f6ec61f906237ffca3c8583f251e49384429a63ceb0ccdb2d37,polymarket,Will the New York Knicks win the 2026 NBA Finals?,,open,,2025-06-23,
+24,0x649ad05a2868343271fe82ea692031d567ca1af652e3529788933157e94aa088,polymarket,Will the Minnesota Timberwolves win the 2026 NBA Finals?,,open,,2025-06-23,
+25,0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73,polymarket,Will the San Antonio Spurs win the 2026 NBA Finals?,,open,,2025-06-23,
+26,0xe202539dfbeced92dc4112f134a205c80ca6cf4db32bd82f05b291c297219fd8,polymarket,Will the Detroit Pistons win the 2026 NBA Finals?,,open,,2025-06-23,
+28,0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892,polymarket,Will Spain win the 2026 FIFA World Cup?,,open,,2025-07-02,
+29,0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f,polymarket,Will England win the 2026 FIFA World Cup?,,open,,2025-07-02,
+30,0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894,polymarket,Will France win the 2026 FIFA World Cup?,,open,,2025-07-02,
+32,0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a,polymarket,Will Brazil win the 2026 FIFA World Cup?,,open,,2025-07-02,
+33,0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f,polymarket,Will Argentina win the 2026 FIFA World Cup?,,open,,2025-07-02,
+34,0x1595b4818eeb1ea1e0bec5de6f057218e557feee9b405a0e930d290384fa1d16,polymarket,Will Germany win the 2026 FIFA World Cup?,,open,,2025-07-02,
+36,0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8,polymarket,Will Portugal win the 2026 FIFA World Cup?,,open,,2025-07-02,
+37,0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1,polymarket,Will Netherlands win the 2026 FIFA World Cup?,,open,,2025-07-02,
+38,0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90,polymarket,Will USA win the 2026 FIFA World Cup?,,open,,2025-07-02,
+40,0x7876851632c295043c66536150a304cb785abdf712ba8489d298c6e6926be106,polymarket,Will Uruguay win the 2026 FIFA World Cup?,,open,,2025-07-02,
+41,0x5ccfe1b69a582d2985db08a8481a0d74c314b1fce9b4711ae2efb2c6467fe6aa,polymarket,Will Mexico win the 2026 FIFA World Cup?,,open,,2025-07-02,
+42,0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811,polymarket,Will Belgium win the 2026 FIFA World Cup?,,open,,2025-07-02,
+44,0xe99cc59f32b10d23acf196d1a0e8264ea30fca198428acadd3464b06ff60e771,polymarket,Will Colombia win the 2026 FIFA World Cup?,,open,,2025-07-02,
+45,0x0189df05ed7bf84d799213b01a79571e305c03b2ac5359cfbb3a323448ba20fa,polymarket,Will Japan win the 2026 FIFA World Cup?,,open,,2025-07-02,
+46,0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c,polymarket,Will Norway win the 2026 FIFA World Cup?,,open,,2025-07-02,
+47,0x67443cb1ffb2bf180f7df5b6ca7adff63f7e8e933c7e41405ba118f3e9f8befb,polymarket,Will Canada win the 2026 FIFA World Cup?,,open,,2025-07-02,
+49,0xff0cfa9506cfa95759e4c7591654195bd26e3011f9882b51439135e04f2b69f1,polymarket,Will Tunisia win the 2026 FIFA World Cup?,,open,,2025-07-02,
+50,0xbaf7780f9059e34b84301fd411f8dc573b4d56adfe6e0cda33daf304b1438da4,polymarket,Will Ecuador win the 2026 FIFA World Cup?,,open,,2025-07-02,
+51,0x675bba4df50fd123f7fbfbafa67e9b75f4092d85ce0f9148ce78fc945964c856,polymarket,Will Paraguay win the 2026 FIFA World Cup?,,open,,2025-07-02,
+53,0x9e5f9d8c384f8fe368b195fa9a780be58643dff7360588a4e577012df8af00a7,polymarket,Will New Zealand win the 2026 FIFA World Cup?,,open,,2025-07-02,
+54,0x098e2be3df8ab529940c567819f8ef007cf007820e9d627642a5bbfaa42af372,polymarket,Will Australia win the 2026 FIFA World Cup?,,open,,2025-07-02,
+55,0x84edef36bded182da6a395ac6c785dba8f3e09b6c5ad041385b2042536cbef25,polymarket,Will Iran win the 2026 FIFA World Cup?,,open,,2025-07-02,
+57,0x965ebc5d79eb1ec02cad67245a44b9e45b33359018f013fb6cf81d5bbf7bcc8d,polymarket,Will Uzbekistan win the 2026 FIFA World Cup?,,open,,2025-07-02,
+58,0x65307f30dce84ac35e41813035d3c04933da830dc4efbbb2fcdc4b282700ef3b,polymarket,Will South Korea win the 2026 FIFA World Cup?,,open,,2025-07-02,
+60,0x33a87d02fa01e958929385c74b8627d32cc4474e9ebd312d268865c5207147fa,polymarket,Will Jordan win the 2026 FIFA World Cup?,,open,,2025-07-02,
+61,0x37a6de1b21803e5f3fb1965116218215d79963af4f7e51659696366267a63a03,polymarket,Will Morocco win the 2026 FIFA World Cup?,,open,,2025-07-02,
+62,0x233ce0c3969a5cd5079287f16fcd283be7c1db82263e08697f85dbe1b4d2113c,polymarket,Will South Africa win the 2026 FIFA World Cup?,,open,,2025-07-02,
+63,0x6972edb1b3f8cd8192651a665fc424dff846efe1c4a2376f628d4b20c704144c,polymarket,Will Senegal win the 2026 FIFA World Cup?,,open,,2025-07-02,
+65,0x289568d555ec620ed6fa33c936c5f42649d3a2e30748a1daf7079f42453fbea4,polymarket,Will Ivory Coast win the 2026 FIFA World Cup?,,open,,2025-07-02,
+66,0x881a3ffa618b6ae0ab95a5637e310afb1afc2d99c921bfe3235b15eccfce0344,polymarket,Will Ghana win the 2026 FIFA World Cup?,,open,,2025-07-02,
+68,0x7412d284c8f63791fec807f9b1f61c6fe61163621775a3dc8686cd2575272abe,polymarket,Will Egypt win the 2026 FIFA World Cup?,,open,,2025-07-02,
+69,0x5a59d269c2b5108cd2f64c624e46ee2c8b5cfd88b882582565f927918315b6aa,polymarket,Will Algeria win the 2026 FIFA World Cup?,,open,,2025-07-02,
+70,0x3bc69cb672591e4fcd2ef856b64b219a906e15d4601b50066ac81a446574dfaf,polymarket,Will Cape Verde win the 2026 FIFA World Cup?,,open,,2025-07-02,
+71,0x4fe305a2ae995a52ff278895344895fe587b4fec3d5f04347b4dbf5e99bce99c,polymarket,Will Qatar win the 2026 FIFA World Cup?,,open,,2025-07-02,
+73,0x3fb8a8de2ac275882d72b2c4f22d41776fcf033f9e413a77a84dd395c0d5257c,polymarket,Will Saudi Arabia win the 2026 FIFA World Cup?,,open,,2025-07-02,
+74,0xf950740bc71136155d6525cc0528a582c81f88812bff227803190c32ca25f54d,polymarket,Will Scotland win the 2026 FIFA World Cup?,,open,,2025-07-02,
+75,0x3a26ca6425e2d98f14935670bc22cdb0744defc6f6d83c65f8c413a921c5c70c,polymarket,Will Switzerland win the 2026 FIFA World Cup?,,open,,2025-07-02,
+77,0xfe230d510eaf545198c0d62bb17871e5fe8989f1b19aa54c0c062b858360987c,polymarket,Will Austria win the 2026 FIFA World Cup?,,open,,2025-07-02,
+78,0xe5bd80313b8859e3f5761568ac9498866ea9d4419e4d1b6a877a9a9bd2754cb4,polymarket,Will Croatia win the 2026 FIFA World Cup?,,open,,2025-07-02,
+79,0x506f80bcf76bc75e6b31a250e2d754f347c4c231665326931d58bdb339ba1913,polymarket,Will Haiti win the 2026 FIFA World Cup?,,open,,2025-07-02,
+81,0xdb4b2f370c3d0e996fbb32213c87aa5402936e3d4882432b6738e2f5661b79a6,polymarket,Will Curaçao win the 2026 FIFA World Cup?,,open,,2025-07-02,
+82,0x9779c09fd4dd0a1c82dd82618269c2aa5669d91305293b396d1e0b8a166b566e,polymarket,Will Panama win the 2026 FIFA World Cup?,,open,,2025-07-02,
+84,0xd0dbdc94b28c5cffeef64ed6b13e5f0f2324fb177e5ffaa634b48c88fe18d5e7,polymarket,Will Sweden win the 2026 FIFA World Cup?,,open,,2025-07-02,
+85,0xcd836ec4d94b8a4ddc5713d80fe9db245d2fb4796eaf12337974da1b4e96100d,polymarket,Will Congo DR win the 2026 FIFA World Cup?,,open,,2025-07-02,
+86,0x51e8c8df709aa78f64d2d9324d9d2556270f81e3966ade308099e5338bb4e4c9,polymarket,Will Iraq win the 2026 FIFA World Cup?,,open,,2025-07-02,
+87,0xbce6698c9a61376c0709a2a724a9cf0dd0236d8dea882533073b6bb062efbee0,polymarket,Will Bosnia-Herzegovina win the 2026 FIFA World Cup?,,open,,2025-07-02,
+89,0x5e614739363bbfc399469102c600e4e8260032d41e59e0bc12ebc0e71231642d,polymarket,Will Czechia win the 2026 FIFA World Cup?,,open,,2025-07-02,
+90,0x106ccc4508432a065a67394837d4c2c529a8d77ed69fa3ba90b81eedf5236598,polymarket,Will Turkiye win the 2026 FIFA World Cup?,,open,,2025-07-02,
+106,0x9d4f94f82de9d13ff1d3318639ab9000ee2533949e525343156f374fb00bd9b1,polymarket,Will Mark Cuban win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+109,0xdce84960dce38aa4a5800a5eba7c9ac34d2ce49ba9d44c42572c472d468af264,polymarket,Will Raphael Warnock win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+110,0x1970bcce75e3674660917ae4685b433a9b1e0152d810a8d7c346dfd5e00694c2,polymarket,Will Cory Booker win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+111,0x3265b10daeb30dbcc3214bd02e488551d0a5d3028392f4152e4750b943fbfc91,polymarket,Will Tim Walz win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+117,0xcb239105ed21a2420ba4d85090b9bc32755c56601ffdc528afd17fd6282fe930,polymarket,Will Gina Raimondo win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+118,0x3535fb2f4aef6619dde8b367cb5e5d209526bb496d5d9778428c58a0252435e3,polymarket,Will Zohran Mamdani win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+120,0x939eeb2dea216749bd409bedde483c3f2bfb0e24d4f2d34461c0b21c6e91f010,polymarket,Will Roy Cooper win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+121,0xca1d1139b0c3a29983407f499476ae642482788e841a277eb86faeeb9fa4a85c,polymarket,Will John Fetterman win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+122,0x8fbcb151e2c988df5a43abb02298014b7daf34c008f3eed9188dd16a2a19bec1,polymarket,Will Jared Polis win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+125,0x88d67705780a3d922317ecb0c78a947a306174d0510df2ae89394d5abfb28206,polymarket,Will Barack Obama win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+126,0x663b88d3a8f2341bb8d878709dc78632bcaf7512e577bd15521e5d8ed933efbc,polymarket,Will Hillary Clinton win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+127,0x46dbd48d6bde5b81edb480e0f676a2cdda6c6b592c4d86a9367c7ad5a9870195,polymarket,Will Liz Cheney win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+129,0x30cfb887558b20373a984da60c372fe5a90c0296aa6d8bb413a8aa7543846da2,polymarket,Will Bernie Sanders win the 2028 Democratic presidential nomination?,,open,,2025-07-11,
+7790,y2ZIUOq0ZC,manifold,Trump announces US blockade of Hormuz lifted by April 30?,,resolved,No,2026-04-13,2026-04-30
+8553,2ItEg96spt,manifold,Strait of Hormuz traffic returns to normal by end of May? [Polymarket],,resolved,No,2026-04-10,2026-05-31
+13544,l5ttgczEut,manifold,"Will US average gas price reach $4.300 in April, 2026?",,resolved,Yes,2026-03-31,2026-04-30
+14904,OU2hqNZPu0,manifold,Trump visits China by May 15?,,resolved,Yes,2026-03-27,2026-05-14
+16610,y8p5Ol62uA,manifold,Will John Fetterman win the 2028 Democratic primary for PA Senate Seat?,,open,,2026-03-20,
+720541,OlQq8h8qOh,manifold,Strait of Hormuz traffic returns to normal by April 30? [Polymarket],,resolved,No,2026-03-11,2026-04-30
+2756047,56EZq5c6QS,manifold,Will the US put boots on the ground in Iran in 2026?,,resolved,Yes,2026-03-04,2026-04-06
+2905632,SAIUNdCI8U,manifold,Donut Battery is essentially Lithium free?,,open,,2026-03-04,
+4739383,60sONPCUgq,manifold,Will the New England Patriots beat the Seattle Seahawks? 🏈 Super Bowl LX,,resolved,No,2025-02-10,2026-02-09
+4752453,nChh5Pzzsy,manifold,Will Trump finish his second term?,,open,,2024-12-05,
+4762466,2lZdlsyUPh,manifold,Will Democrats control both the House and the Senate after the 2026 midterms?,,open,,2024-11-07,
+4984305,lulnEhhRNN,manifold,Will Bitcoin cross $76K before April 1?,,resolved,No,2026-03-21,2026-03-31
+4984320,EZCc9tEhNI,manifold,Will G2 win the First Stand?,,resolved,No,2026-03-21,2026-03-22
+4984334,96dtSA2Z8d,manifold,Will Donald Trump die by April 1,,resolved,No,2026-03-21,2026-03-31
+4984349,nR6c9u2qdn,manifold,Will Cardano go up in the next 24 hours?,,resolved,No,2026-03-21,2026-03-22
+4984374,Sy28LlzZLy,manifold,Free Lottery (pH in cell),,resolved,,2026-03-21,2026-03-22
+4984388,SIIu656qzu,manifold,Daily Coinflip,,resolved,Yes,2026-03-21,2026-03-23
+4984409,hOZOnqAgcI,manifold,Will Arsenal win their next match,,resolved,No,2026-03-21,2026-03-22
+4984425,s6Z9SShR6l,manifold,"from now march 21 2026 Will Bitcoin hit $100,000 before 2027?”",,open,,2026-03-21,
+4984439,295P66PzCC,manifold,will liverpool win against brigton on todays match 21/03/2026,,resolved,No,2026-03-21,2026-03-23
+4984456,9P9gC5utuL,manifold,will i be in diamond in valorant before 2027,,open,,2026-03-21,
+4984470,5luZqIPdtN,manifold,Daily Coinflip,,resolved,No,2026-03-21,2026-03-23
+4986357,psNpUtIl06,manifold,"Will Bitcoin be above $70,000 USD at the end of March?",,resolved,No,2026-03-01,2026-03-31
+4986470,NstCUAzyt2,manifold,USA x Iran ceasefire by end of march 31?,,resolved,No,2026-02-28,2026-03-31
+4986514,ZctCIAhQsu,manifold,Will Iran shoot down a US military plane/helicopter by end of March?,,resolved,No,2026-02-28,2026-03-31
+4987963,NZlgtqszg6,manifold,Will this market have more than 10k trades by the end of closing time?,,resolved,,2026-02-16,2026-02-22
+4988354,O5N6AAz8QI,manifold,Starmer out before July?,,open,,2026-02-14,
+4988517,uZpnqOOLps,manifold,Will a famous person bet on this market?,,resolved,Yes,2026-02-12,2026-02-27
+4988673,8UsylIynCp,manifold,Will the winner of Mr. Beast's $1M Super Bowl puzzle be a Manifolder?,,resolved,Yes,2026-02-12,2026-03-07
+4990314,QLLPInsLNA,manifold,Claude Sonnet 5 released this week?,,resolved,No,2026-02-01,2026-02-08
+4990551,ylQnEcgzdU,manifold,Will OpenAI release a model named GPT 5.3 by the end of February?,,resolved,No,2026-01-30,2026-03-01
+4990602,0IUCA5s8EN,manifold,Will the US strike Iran by the end of February?,,resolved,Yes,2026-01-29,2026-02-28
+4990785,SyhgEZC68s,manifold,Will the Democrats win the 2026 Texas Senate Election?,,open,,2026-01-29,
+4990814,p0tPz6pQIU,manifold,ICE kills another US citizen by end of February 2026,,resolved,No,2026-01-28,2026-02-28
+4993350,IPuU8qhIO8,manifold,"Will U.S. weapons strike targets inside Iran by January 31, 2026?",,resolved,No,2026-01-11,2026-01-30
+4994195,su6n5h6AZS,manifold,Will Trump interfere with Greenland?,,open,,2026-01-06,
+4995264,ZZLRuEZpZl,manifold,Will Venezuelans be better off at the end of 2026?,,open,,2026-01-03,
+4995554,yZsEz8UdZS,manifold,US government shutdown by January 31st 2026?,,resolved,Yes,2026-01-02,2026-01-31
+4996266,tt0Uy260hp,manifold,Will Iran's regime fall in 2026?,,open,,2025-12-31,
+4996706,puLqZusPqU,manifold,Will the AI bubble pop in 2026?,,open,,2025-12-28,
+4997785,sSgNU8L9OQ,manifold,"Will Marcus Hutter win his $10,000 bet that David Budden will not solve the Navier-Stokes Millennium problem?",,resolved,Yes,2025-12-20,2026-01-06
+5001054,0q0RRPtScc,manifold,China's rebar failure rate below 20% in 2025 national quality check?,,resolved,Yes,2025-11-26,2026-05-03
+5002260,hERQAyOtAZ,manifold,Will Trump wins the Nobel Peace Prize in 2026? [High Liquidity],,open,,2025-11-18,
+5002777,9QspLsldZO,manifold,US Military action again Venezuela in 2025?,,resolved,,2025-11-15,2026-01-09
+5003203,2cCOO6dZun,manifold,"Trump visits China before May 1, 2026?",,resolved,No,2025-11-12,2026-04-30
+5003495,2OPzS26uly,manifold,Government shutdown with furlough in January 2026?,,resolved,Yes,2025-11-10,2026-02-02
+5003655,6A0Csq0Z9c,manifold,Will MrBeast reach 460 million subscribers in 2025?,,resolved,No,2025-11-08,2026-01-01
+5004558,gPA029Rcyh,manifold,Will Manifold solve my puzzle?,,resolved,Yes,2025-11-03,2025-12-23
+5005825,9nsyLEANnz,manifold,Will the California billionaire wealth tax pass?,,open,,2025-10-25,
+5007268,cpC2scZcAE,manifold,Trump golfs on >25% of days in 2025?,,resolved,Yes,2025-10-16,2026-01-08
+5018725,ZppLzPlCSg,manifold,In a true free market. Prices would naturally fall . In other words deflation,,open,,2025-09-05,
+5020746,d2sZ8AIILQ,manifold,Military conflict between the US and Venezuela in 2025?,,resolved,Yes,2025-08-28,2025-12-31
+5040141,I6gU82zcus,manifold,Tesla has more fully autonomous rides than Waymo in 2026?,,open,,2025-06-11,
+5041161,uISNlAqC2E,manifold,Republicans have a House majority after 2026 midterms?,,open,,2025-06-08,
+5045457,hQQPLApOcA,manifold,Half-Life 3 confirmed by EOY?,,resolved,No,2025-05-27,2025-12-30
+12759715,y9RAdPnhOp,manifold,Will Trump/USA buy or acquire part of Greenland?,,open,,2025-01-07,
+43657603,ZJ9LlySKX4dldqcpdQ4G,manifold,Will Viktor Orban remain Hungary's prime minister after the 2026 elections?,,resolved,No,2023-08-07,2026-04-12
+43670883,WCsjjEUk1vxRy1wHNi63,manifold,"Will Eliezer Yudkowsky win his $150,000 - $1,000 bet about UFOs not having a worldview-shattering origin?",,open,,2023-07-21,
+43774256,nOXCmJFNsLx08PjOc4Qk,manifold,"In 2028, will AI be at least as big a political issue as abortion?",,open,,2023-02-20,
+43775102,A319ydGB1B7f4PMOROL3,manifold,"In early 2028, will an AI be able to generate a full high-quality movie to a prompt?",,open,,2023-02-20,
